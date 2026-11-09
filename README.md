@@ -27,9 +27,9 @@ Protótipo de segurança patrimonial que monitora o perímetro em tempo real, us
 Projeto que demonstra o funcionamento de quatro tipos de energia renovável: eólica, hidráulica, solar e biomassa.
 
 
-🏭 Bengala Inteligente - Comunicação assitida
+🏭 Comunicação assitiva
 
-Programação em Ladder para o controle de uma máquina de lavar automatizada. Ladder CLP Factory I/O
+bengala inteligente para ajudar pessoas com deficiência visual
 
 🐾 Tati Peti Shop
 
