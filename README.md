@@ -27,7 +27,7 @@ Protótipo de segurança patrimonial que monitora o perímetro em tempo real, us
 Projeto que demonstra o funcionamento de quatro tipos de energia renovável: eólica, hidráulica, solar e biomassa.
 
 
-🏭 Simulação de Processo Industrial (Factory I/O + CLP)
+🏭 Bengala Inteligente - Comunicação assitida
 
 Programação em Ladder para o controle de uma máquina de lavar automatizada. Ladder CLP Factory I/O
 
