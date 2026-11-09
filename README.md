@@ -26,9 +26,6 @@ Protótipo de segurança patrimonial que monitora o perímetro em tempo real, us
 
 Projeto que demonstra o funcionamento de quatro tipos de energia renovável: eólica, hidráulica, solar e biomassa.
 
-🏠 Automação Residencial com Arduino
-
-Controle de iluminação com sensores e atuadores, com lógica programada em C/C++. Arduino C/C++
 
 🏭 Simulação de Processo Industrial (Factory I/O + CLP)
 
