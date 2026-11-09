@@ -31,7 +31,7 @@ Projeto que demonstra o funcionamento de quatro tipos de energia renovável: eó
 
 Programação em Ladder para o controle de uma máquina de lavar automatizada. Ladder CLP Factory I/O
 
-🐾 Modelagem de Dados: Tati Peti Shop
+🐾 Tati Peti Shop
 
 Diagrama Entidade-Relacionamento (DER) conceitual e lógico, com dicionário de dados, para um sistema de gerenciamento de pet shop. SQL Modelagem de dados
 
